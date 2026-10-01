@@ -1,7 +1,7 @@
 [project]
 name = "data-viz-trial"
 version = "0.1.0"
-description = "Add your description here"
+description = "Generate ER/schema diagrams from CSV data loaded into a SQLite database"
 readme = "README.md"
 authors = [
     { name = "Hugo Caravlho", email = "hugomnc317@gmail.com" }
