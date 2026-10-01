@@ -1,4 +1,4 @@
-# Data Viz Trial
+# ER Diagram Generator
 
 Small trial project: load Pokemon CSV data into a SQLite DB (`csv_to_sqlite.py`)
 and generate an ER diagram of its schema with Graphviz (`db_diagram.py`).
